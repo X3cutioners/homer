@@ -57,7 +57,7 @@ services:
         logo: "https://i.imgur.com/Drt3I3q.jpeg"
         url: "https://affine.moogi.tech"
       - name: "OpenBooks"
-        logo: "https://i.imgur.com/Drt3I3q.jpeg"
+        logo: "https://cdn-icons-png.flaticon.com/512/5328/5328095.png"
         url: "https://books.moogi.tech"
       - name: "PasteBin"
         logo: "https://upload.wikimedia.org/wikipedia/en/3/35/Pastebin.com_logo.png"
@@ -74,7 +74,6 @@ services:
       - name: "Mango"
         logo: "https://avatars.githubusercontent.com/u/78470664"
         url: "https://manga.moogi.tech"
-      - name: "Weather"
   - name: "Networking"
     icon: "fa-solid fa-server"
     items:
